@@ -21,7 +21,7 @@ I am a curious learner who loves **researching new technologies** and **reading 
 |:--------------------|:---------------------|
 | C Programming       | Microsoft Word       |
 | Java                | Canva                |
-| Python (Learning)   | Basic Research Tools |
+| Python (Learning)   | Other Research Tools |
 
 **Soft Skills:**
 -  Research & Analysis
