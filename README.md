@@ -68,7 +68,6 @@ I am a curious learner who loves **researching new technologies** and **reading 
 -  **Reading Books** – Especially tech, cybersecurity, and self-growth genres  
 -  **Research on Anything** – I love diving deep into topics and learning new things  
 -  **Learning New Technologies** – Always exploring tools and techniques in cybersecurity  
-- 
 
 ---
 
