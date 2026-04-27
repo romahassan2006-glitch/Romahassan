@@ -1,100 +1,104 @@
-# 🚀 Marshall Carney
+# Roma Hassan
 
-> *"A motivated high school student blending creativity, technology, and leadership to solve real-world problems."*
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Marshall Carney**, a passionate high school student from Mississippi with a strong interest in design, programming, and communication. I thrive in team environments, love learning new skills, and have a proven track record of leadership and achievement—from being crowned **Trainee of the Year** to increasing sales by **30%** at a local bookstore.
-
-I'm actively looking for internships, freelance opportunities, or entry-level roles where I can apply my skills in **Photoshop, Illustrator, video editing, Java**, and **fluent French**.
-
+> *"Designing dreams, writing code, securing the digital world and building the future.""*
 
 ---
 
-## 🛠️ Technical & Professional Skills
+## About Me
 
-| **Hard Skills** | **Soft Skills** |
-|:---------------|:----------------|
-| 🎨 Photoshop | ⏰ Time Management |
-| ✏️ Illustrator | 💡 Creativity |
-| 🎬 Video Editing | 📚 Willingness to Learn |
-| ☕ Java | 🌍 Open-mindedness |
-| 🇫🇷 French (Fluent) | 🤝 Teamwork |
+Hello! I'm **Roma Hassan**, a passionate **Computer Science student** with a deep interest in **Cybersecurity** and **Ethical Hacking**. I believe that understanding security is the key to building safer digital systems. My goal is to grow in this field, contribute to open-source security projects, and eventually work as a **Security Analyst or Ethical Hacker**.
+
+I am a curious learner who loves **researching new technologies** and **reading books** to expand my knowledge. I thrive on solving complex problems and staying updated with the latest trends in cybersecurity.
+
+ **Career Goal:** To pursue a career in **Cybersecurity & Ethical Hacking** and help organizations protect their digital assets.
 
 ---
 
-## 💼 Work Experience
+## Skills
 
-### 🏆 High School Student Sales Trainee Program
-**XYZ Corporation, MS** | *Jan 2020 – Nov 2020*
 
-- 🥇 Awarded **"Trainee of the Year"** out of 20+ participants
-- 📊 Solved **10+ real-world business and sales cases** efficiently
-- 🤝 Collaborated with cross-functional teams to present solutions to executives
+| **Technical Skills** | **Tools & Software** |
+|:--------------------|:---------------------|
+| C Programming       | Microsoft Word       |
+| Java                | Canva                |
+| Python (Learning)   | Basic Research Tools |
 
-### 📚 Student Helper
-**Lily’s Bookstore, MS** | *Jan 2019 – Jan 2020*
-
-- 📦 Managed promotions for **200+ merchandise items**
-- 📈 Increased magazine sales by **30%** through creative in-store displays
-- 🛠️ Assisted customers and maintained organized inventory
-
+**Soft Skills:**
+-  Research & Analysis
+-  Quick Learner
+-  Problem Solving
+-  Time Management
+-  Team Collaboration
 ---
 
 ## 🎓 Education
 
-### Southaven Christian School, MS | *2018 – 2021*
-
-**GPA:** 3.8 / 4.3
-
-#### 🏅 Awards & Honors
-- 🎓 **2021 Ted-Amanda Love Academic Scholarship**
-- 🎤 **2020 Second Runner-Up** – Inter-class Speech Contest
-
-#### ⚽ Extracurricular Activities
-- 🗳️ **2019 Representative** – Student Council
-- 🏐 **2019 Captain** – Volleyball Club
+| **Degree** | **Institution** | **Year** | **Marks / Percentage** |
+|:-----------|:----------------|:---------|:----------------------|
+| **BS Computer Science** | [FJWU Rawalpindi] | 2024 – Present | In Progress |
+| **FSc (Pre-Engineering )** | Punjab College, Talagang | 2024 | **86%** |
+| **Matriculation** | Government School, Talagang | 2022 | **89%** |
 
 ---
 
-## 🌟 Featured Projects
+##  Certificates & Achievements
 
-### 🎨 Speech Contest Visual Presentation
-- Designed custom presentation slides using **Illustrator & Photoshop**
-- Received **Second Runner-Up** award
+- 🎓 **Matric Level Certificate** – [ Best Performance], 2022
+- 🎓 **FSc Level Certificate** – [Pre Engineering / Got 2nd Position], 2024
+-  **Online Participation in session Related to transforming Trauma into Growth Certificate** – [Ms. Sol Ghobad / Google Meet], [2026]
+-  *More certificates to be added soon as I continue learning cybersecurity!*
 
-### 📈 Bookstore Promotional Campaign
-- Created eye-catching posters and shelf displays
-- Helped boost **magazine sales by 30%** in 3 months
-
-### 💻 Java Mini-Game (School Project)
-- Built a text-based adventure game using **Java**
-- Demonstrated problem-solving and logic skills
+>  *I actively participate in online workshops and sessions related to cybersecurity and ethical hacking.*
 
 ---
 
-## 📜 Certifications & Languages
+##  Cybersecurity Journey (My Roadmap)
 
-- 🇫🇷 **French** – Fluent (reading, writing, speaking)
-- 🖥️ **Java** – Intermediate (school & self-taught)
-- 🎨 **Adobe Creative Suite** – Photoshop, Illustrator (Advanced Beginner)
-
----
-
-## 🌱 What I'm Currently Learning
-
-- 🐍 Python for automation and data analysis
-- 🌐 HTML/CSS for web design basics
-- 📹 Advanced video editing with DaVinci Resolve
+-  Completed basic programming in **C, Java, Python**
+-  Attended online cybersecurity awareness session
+-  Next goals:  
+  -  TryHackMe / HackTheBox challenges  
+  -  Google Cybersecurity Certificate  
+  -  Learn Kali Linux & Penetration Testing basics  
 
 ---
 
-## ⚡ Fun Fact
+## Hobbies & Interests
 
-When I'm not coding or designing, you'll find me leading my volleyball team or brainstorming creative ways to solve everyday problems!
+-  **Reading Books** – Especially tech, cybersecurity, and self-growth genres  
+-  **Research on Anything** – I love diving deep into topics and learning new things  
+-  **Learning New Technologies** – Always exploring tools and techniques in cybersecurity  
+- 
 
 ---
+
+##  Programming Languages Known
+
+| Language | Proficiency Level |
+|:---------|:------------------|
+| C        | Intermediate      |
+| Java     | Intermediate      |
+| Python   | Beginner (Learning)|
+
+---
+
+##  Currently Learning
+
+-  Python for Cybersecurity  
+-  Networking Fundamentals (TCP/IP, OSI Model)  
+-  Linux Command Line ( Linux basics)  
+
+
+---
+
+##  My Motto
+
+> *"Stay curious. Stay secure. Keep learning."*
+
+---
+
+
+
+
 
 > *“Open to internships, freelance design work, or Java development opportunities. Let’s build something great together!”*
