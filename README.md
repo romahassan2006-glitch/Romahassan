@@ -14,21 +14,7 @@ I am a curious learner who loves **researching new technologies** and **reading 
 
 ---
 
-## Skills
 
-
-| **Technical Skills** | **Tools & Software** |
-|:--------------------|:---------------------|
-| C Programming       | Microsoft Word       |
-| Java                | Canva                |
-| Python (Learning)   | Other Research Tools |
-
-**Soft Skills:**
--  Research & Analysis
--  Quick Learner
--  Problem Solving
--  Time Management
--  Team Collaboration
 ---
 
 ## 🎓 Education
@@ -51,6 +37,31 @@ I am a curious learner who loves **researching new technologies** and **reading 
 >  *I actively participate in online workshops and sessions related to cybersecurity and ethical hacking.*
 
 ---
+## Skills
+
+
+| **Technical Skills** | **Tools & Software** |
+|:--------------------|:---------------------|
+| C Programming       | Microsoft Word       |
+| Java                | Canva                |
+| Python (Learning)   | Other Research Tools |
+
+**Soft Skills:**
+-  Research & Analysis
+-  Quick Learner
+-  Problem Solving
+-  Time Management
+-  Team Collaboration
+---
+##  Programming Languages Known
+
+| Language | Proficiency Level |
+|:---------|:------------------|
+| C        | Intermediate      |
+| Java     | Intermediate      |
+| Python   | Beginner (Learning)|
+
+---
 
 ##  Cybersecurity Journey (My Roadmap)
 
@@ -71,15 +82,6 @@ I am a curious learner who loves **researching new technologies** and **reading 
 
 ---
 
-##  Programming Languages Known
-
-| Language | Proficiency Level |
-|:---------|:------------------|
-| C        | Intermediate      |
-| Java     | Intermediate      |
-| Python   | Beginner (Learning)|
-
----
 
 ##  Currently Learning
 
