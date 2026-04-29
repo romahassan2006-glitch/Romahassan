@@ -6,13 +6,10 @@
 
 ## About Me
 
-Hello! I'm **Roma Hassan**, a passionate **Computer Science student** with a deep interest in **Cybersecurity** and **Ethical Hacking**. I believe that understanding security is the key to building safer digital systems. My goal is to grow in this field, contribute to open-source security projects, and eventually work as a **Security Analyst or Ethical Hacker**.
+Hello! I'm **Roma Hassan**, a passionate **Computer Science student** with a deep interest in **Cybersecurity**, **Web Development** and **Graphics Designing**. I believe that understanding security is the key to building safer digital systems.
+I want to build my career in **Cybersecurity**, **Web Development**, or **Graphic Design** — fields where creativity meets technical skills. Whether it’s securing systems, building websites, or designing visuals, I enjoy solving real-world problems. I’ll keep learning and growing in one of these exciting domains.
 
-I am a curious learner who loves **researching new technologies** and **reading books** to expand my knowledge. I thrive on solving complex problems and staying updated with the latest trends in cybersecurity.
-
- **Career Goal:** To pursue a career in **Cybersecurity & Ethical Hacking** and help organizations protect their digital assets.
-
----
+ 
 
 
 ---
@@ -32,6 +29,7 @@ I am a curious learner who loves **researching new technologies** and **reading 
 - 🎓 **Matric Level Certificate** – [ Best Performance], 2022
 - 🎓 **FSc Level Certificate** – [Pre Engineering / Got 2nd Position], 2024
 -  **Online Participation in session Related to transforming Trauma into Growth Certificate** – [Ms. Sol Ghobad / Google Meet], [2026]
+-  **CM Laptop Award** (2025)
 -  *More certificates to be added soon as I continue learning cybersecurity!*
 
 >  *I actively participate in online workshops and sessions related to cybersecurity and ethical hacking.*
@@ -40,18 +38,20 @@ I am a curious learner who loves **researching new technologies** and **reading 
 ## Skills
 
 
-| **Technical Skills** | **Tools & Software** |
+| **Technical Skills** | **Soft Skills** |
 |:--------------------|:---------------------|
-| C Programming       | Microsoft Word       |
-| Java                | Canva                |
-| Python (Learning)   | Other Research Tools |
+| C Programming       | Quick Learner       |
+| Java                | Problem Solving   |             
+| Python (Learning) | Team Collaboration |
+| Assembly Language(Emu8086) |Time Management |
 
-**Soft Skills:**
--  Research & Analysis
--  Quick Learner
--  Problem Solving
--  Time Management
--  Team Collaboration
+**Technical Tools:**
+-  Microsoft Tools
+-  MS Azure
+-  VirtualBox
+-  Canva
+-  Dev-C++
+-  Ecllipse
 ---
 ##  Programming Languages Known
 
@@ -78,7 +78,7 @@ I am a curious learner who loves **researching new technologies** and **reading 
 
 -  **Reading Books** – Especially tech, cybersecurity, and self-growth genres  
 -  **Research on Anything** – I love diving deep into topics and learning new things  
--  **Learning New Technologies** – Always exploring tools and techniques in cybersecurity  
+-  **Learning New Technologies** – Always exploring tools and techniques in Digital World 
 
 ---
 
